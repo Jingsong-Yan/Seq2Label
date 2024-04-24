@@ -1,4 +1,4 @@
-# # Does the Order Matter? A Random Generative Way to Learn Label Hierarchy for Hierarchical Text Classification [[中文](./README.md) | English]
+#  Does the Order Matter? A Random Generative Way to Learn Label Hierarchy for Hierarchical Text Classification [[中文](./README.md) | English]
 
 **Abstract**: Hierarchical Text Classification (HTC) is an essential and challenging task due to the difficulty of
 modeling label hierarchy. Recent generative methods have achieved state-of-the-art performance by flattening the local
