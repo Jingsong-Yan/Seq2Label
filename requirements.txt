@@ -1,0 +1,6 @@
+transformers==4.15.0
+torch
+scikit-learn
+pyymal
+tqdm
+pickle

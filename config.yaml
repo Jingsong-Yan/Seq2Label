@@ -1,0 +1,12 @@
+text_max_length: 800
+pretrained_path: facebook/bart-base # ['facebook/bart-base', 't5-base']
+padding_idx: 1
+wos:
+  label_max_length: 6
+  epsilon: 9
+rcv1:
+  label_max_length: 20
+  epsilon: 5
+bgc:
+  label_max_length: 16
+  epsilon: 9
